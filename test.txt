@@ -1,4 +1,4 @@
 this is a test file
-change from remote
+1st change from remote
 change from local
 2nd change from remote
