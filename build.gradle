@@ -1,7 +1,0 @@
-buildscript {
-    ext {
-        springBootVersion = '2.0.1.RELEASE'
-        springCloudVersion = 'Finchley.RC1'
-        junit5Version = '5.3.1'
-    }
-}
